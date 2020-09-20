@@ -69,20 +69,20 @@ Russian
 Projects
 ----------
 
-**1.Information Computing Center of the Ministry of Finance (Document flow)**
+**1.Information Computing Center of the Ministry of Finance (Document flow)**;
 
 - Implementation of an electronic document management system.
 - Unique modifications were implemented to meet the client's requirements.
 - There is a review of the successful implementation of the system.
 
-**2. Road construction trust No. 5**
+**2. Road construction trust No. 5**;
 
 - Head of implementation of electronic document management.
 - Implementation of an electronic document management system.
 - Unique modifications were implemented to meet the client's requirements.
 - There is a review of the successful implementation of the system.
 
-**3. Road Construction Trust No. 1"**
+**3. Road Construction Trust No. 1"**;
 
 - Head of implementation of electronic document management.
 After trial operation, the following branches were connected to the system:
@@ -96,21 +96,21 @@ After trial operation, the following branches were connected to the system:
 Unique modifications were implemented to meet the requirements of the enterprise structure.
 There is a review of the successful implementation of the system.
 
-**4. JSC "Klimovichi Distillery"**
+**4. JSC "Klimovichi Distillery"**;
 
-**5. OJSC "Obolsk Ceramic Plant"**
+**5. OJSC "Obolsk Ceramic Plant"**;
 
-**6. OJSC "BMZ" - the managing company of the holding "BMK"**
+**6. OJSC "BMZ" - the managing company of the holding "BMK"**;
 
-**7. JSC "KB Radar" - the managing company of the "Radar Systems" holding**
+**7. JSC "KB Radar" - the managing company of the "Radar Systems" holding**;
 
-**8. RDPUP "Minsk Printing House"**
+**8. RDPUP "Minsk Printing House"**;
 
-**9. RUP "BELTEI"**
+**9. RUP "BELTEI"**;
 
 **10. Zavodskoy Territorial Social Services Center
-district of Minsk**
+district of Minsk**;
 
-**11. Unitary enterprise "Vitebskvtorchermet"**
+**11. Unitary enterprise "Vitebskvtorchermet"**;
 
-**12. Unitary enterprise "Grodnovtorchermet"**
+**12. Unitary enterprise "Grodnovtorchermet"**;
